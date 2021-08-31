@@ -32,7 +32,7 @@ pfp = fp.read()
 #     my_embed.add_field(name="Education", value="2nd Year Student at IIIT Surat", inline=False)
 #     my_embed.add_field(name="Extra Info", value="Python Lover", inline=False)
 #     my_embed.set_footer(text="LLM Bot",
-#                         icon_url="https://media-exp1.licdn.com/dms/image/C4E03AQE6F2DNev849A/profile-displayphoto-shrink_800_800/0/1617857843029?e=1635984000&v=beta&t=PvAn8gXsdMmVl6y509dV4Ff6JdbHjOaZKTX6gFJxYqU")
+#                         icon_url="")
 #
 #     await context.message.channel.send(embed=my_embed)
 
@@ -72,7 +72,7 @@ async def showpic(ctx, *,search):
 #         my_embed = discord.Embed(title="Creator's name", description="Naitik Patil", color=colors[x])
 #         my_embed.add_field(name="Education", value="2nd Year Student at IIIT Surat", inline=False)
 #         my_embed.add_field(name="Extra Info", value="Python Lover", inline=False)
-#         my_embed.set_footer(text="LLM Bot",icon_url="https://media-exp1.licdn.com/dms/image/C4E03AQE6F2DNev849A/profile-displayphoto-shrink_800_800/0/1617857843029?e=1635984000&v=beta&t=PvAn8gXsdMmVl6y509dV4Ff6JdbHjOaZKTX6gFJxYqU")
+#         my_embed.set_footer(text="LLM Bot",icon_url="")
 #         await message.reply(embed=my_embed)
 #
 #     elif message.content == ('!private'):
