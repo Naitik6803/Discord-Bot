@@ -1,0 +1,3 @@
+# Discord-Bot
+
+This is a multifunction discord,yet in development...
